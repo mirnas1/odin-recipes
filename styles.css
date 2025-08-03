@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0px auto;
+}
+
+body {
+    width: 50%
+}
+
+h1, 
+h2, 
+h3 {
+    color: #162656;
+    margin: 20px 0px;
+    /* margin-bottom: 20px; */
+}
+h4 {
+    color:dimgrey;
+}
+
+#home-menu {
+    text-align: center;
+}
+
+.home {
+    margin: 20px;
+    display: block;
+    text-align: center;
+}
+
+p, 
+ul,
+ol {
+    margin: 10px 0px;
+}
+
+
+img {
+    display: block;
+    margin: 0px auto;
+}
